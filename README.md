@@ -1,4 +1,4 @@
-twitter.github.com
+icos-urenio.github.com
 ======
 
 ICOS Open Source Projects
